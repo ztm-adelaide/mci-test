@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>PHP 测试</title>
+<title>PHP </title>
 </head>
-<body>
+<body> //https://sites.google.com/site/mci09test/ 
 <?php echo '<p>Hello World</p>'; ?>
 </body>
 </html>
